@@ -2,8 +2,17 @@ Overview of RandNLA
 https://www.stat.berkeley.edu/~mmahoney/f13-stat260-cs294/
 
 Algorithm applications to learning
+Arriaga and Vempala 2009
 https://link.springer.com/article/10.1007/s10994-006-6265-7
 
 Random Features for Large-Scale Kernel Machines
-not quite sure what this means
+Rahimi and Recht 2008
 https://papers.nips.cc/paper/2007/hash/013a006f03dbc5392effeb8f18fda755-Abstract.html
+
+“Pattern Recognition and Machine Learning” by Chris Bishop
+Reading: https://github.com/peteflorence/MachineLearning6.867/blob/master/Bishop/Bishop%20-%20Pattern%20Recognition%20and%20Machine%20Learning.pdf
+Videos: https://www.youtube.com/playlist?list=PLWMBgIqOUbrlvf4osKxJyZ7kMbSuIPEyO
+
+
+(https://www.cs.purdue.edu/homes/spa/courses/pg17/mu-book.pdf).
+In particular, I’d look over sections 1.2, 1.3, 2.1, 2.2, 2.3, 3.1, 3.2, 3.3.
